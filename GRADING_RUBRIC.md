@@ -18,7 +18,7 @@ Total: 40 points
 
 ## 3. Branch & PR Workflow (12 pts)
 
-- 11-12: Feature branch for work, PR into your team repo with a clear summary, includes merge commits that document how the feature branch was integrated.
+- 11-12: Feature branch for work, PR into your team repo with a clear summary, includes merge commits that document how the feature branch was integrated, and branch deleted after merge.
 - 8-10: Branching and PR present but merge history or descriptions could improve.
 - 5-7: Branch usage inconsistent or PR lacks useful context.
 - 0-4: Work pushed to `main` or PR missing.
